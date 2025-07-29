@@ -8,7 +8,7 @@ Thanks! Now that you've uploaded the **SQL file (`data_cleaning_db.sql`)**, I’
 
 ## 📂 About The Project
 
-![Layoffs Data Screenshot](#)
+![Layoffs Data Screenshot](#)<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e776d013-a5b5-4534-8cf4-4e81715d7ef2" />
 
 This project is a structured SQL-based data cleaning pipeline applied to a real-world dataset tracking global layoffs across companies, industries, and time. While many datasets are noisy or inconsistent, this project focuses on transforming that raw data into a clean, analysis-ready table using repeatable and transparent SQL techniques.
 
